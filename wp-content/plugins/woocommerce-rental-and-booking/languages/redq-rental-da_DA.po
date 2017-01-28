@@ -1,0 +1,1358 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocomemrce Rental & Bookings\n"
+"POT-Creation-Date: 2016-11-11 20:55+0600\n"
+"PO-Revision-Date: 2016-11-11 20:55+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: redq-rental-and-bookings.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin/class-redq-rental-admin-page.php:30
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Du er ikke godkendt til denne side"
+
+#: includes/admin/class-redq-rental-meta-boxes.php:19
+msgid "Rental Product"
+msgstr "Udlejning produkt"
+
+#: includes/admin/class-redq-rental-meta-boxes.php:27
+msgid "Inventory"
+msgstr "Lagerliste"
+
+#: includes/admin/class-redq-rental-meta-boxes.php:33
+msgid "Price Calculation"
+msgstr "Pris ved beregning"
+
+#: includes/admin/class-redq-rental-meta-boxes.php:39
+msgid "Price Discount"
+msgstr "pris Rabat"
+
+#: includes/admin/class-redq-rental-meta-boxes.php:45
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: includes/admin/class-redq-rental-post-types.php:36
+msgctxt "post type general name"
+msgid "Inventory"
+msgstr "Lagerliste"
+
+#: includes/admin/class-redq-rental-post-types.php:37
+msgctxt "post type singular name"
+msgid "Inventory"
+msgstr "Lagerliste"
+
+#: includes/admin/class-redq-rental-post-types.php:38
+msgctxt "admin menu"
+msgid "Inventory"
+msgstr "Lagerliste"
+
+#: includes/admin/class-redq-rental-post-types.php:39
+msgctxt "add new on admin bar"
+msgid "Inventory"
+msgstr "Lagerliste"
+
+#: includes/admin/class-redq-rental-post-types.php:40
+msgctxt "inventory"
+msgid "Add New"
+msgstr "Tilføj ny stemme"
+
+#: includes/admin/class-redq-rental-post-types.php:41
+msgid "Add New Inventory"
+msgstr "Tilføj ny Inventory"
+
+#: includes/admin/class-redq-rental-post-types.php:42
+msgid "New Inventory"
+msgstr "Ny Inventory"
+
+#: includes/admin/class-redq-rental-post-types.php:43
+msgid "Edit Inventory"
+msgstr "Rediger Inventory"
+
+#: includes/admin/class-redq-rental-post-types.php:44
+msgid "View Inventory"
+msgstr "Vis Inventory"
+
+#: includes/admin/class-redq-rental-post-types.php:45
+msgid "All inventory"
+msgstr "Alle opgørelse"
+
+#: includes/admin/class-redq-rental-post-types.php:46
+msgid "Search inventory"
+msgstr "Søg oversigt"
+
+#: includes/admin/class-redq-rental-post-types.php:47
+msgid "Parent inventory:"
+msgstr "Parent opgørelse:"
+
+#: includes/admin/class-redq-rental-post-types.php:48
+msgid "No inventory found."
+msgstr "Ingen opgørelse fundet."
+
+#: includes/admin/class-redq-rental-post-types.php:49
+msgid "No inventory found in Trash."
+msgstr "Ingen opgørelse findes i papirkurven."
+
+#: includes/admin/class-redq-rental-post-types.php:54
+msgid "Description."
+msgstr "Anmeldelser og omtale"
+
+#: includes/admin/class-redq-rental-post-types.php:97
+#: includes/admin/class-redq-rental-post-types.php:101
+msgid "Resource Cost"
+msgstr "Resource Cost"
+
+#: includes/admin/class-redq-rental-post-types.php:100
+msgid "R.Cost"
+msgstr "R.Cost"
+
+#: includes/admin/class-redq-rental-post-types.php:107
+#: includes/admin/class-redq-rental-post-types.php:170
+#: includes/admin/class-redq-rental-post-types.php:212
+msgid "Price Applicable"
+msgstr "gældende mindstepris."
+
+#: includes/admin/class-redq-rental-post-types.php:110
+#: includes/admin/class-redq-rental-post-types.php:173
+#: includes/admin/class-redq-rental-post-types.php:215
+#: includes/admin/views/html-days-range-meta.php:88
+msgid "Applicable"
+msgstr "Ikke relevant"
+
+#: includes/admin/class-redq-rental-post-types.php:127
+#: includes/admin/class-redq-rental-post-types.php:131
+#: includes/admin/class-redq-rental-post-types.php:189
+#: includes/admin/class-redq-rental-post-types.php:193
+#: includes/admin/class-redq-rental-post-types.php:231
+#: includes/admin/class-redq-rental-post-types.php:235
+msgid "Hourly Cost"
+msgstr "Hver time"
+
+#: includes/admin/class-redq-rental-post-types.php:130
+#: includes/admin/class-redq-rental-post-types.php:192
+#: includes/admin/class-redq-rental-post-types.php:234
+msgid "H.Cost"
+msgstr "H.Cost"
+
+#: includes/admin/class-redq-rental-post-types.php:141
+msgid "Choose payable or not"
+msgstr "Vælg betales eller ej"
+
+#: includes/admin/class-redq-rental-post-types.php:144
+msgid "Payable"
+msgstr "Betales"
+
+#: includes/admin/class-redq-rental-post-types.php:160
+#: includes/admin/class-redq-rental-post-types.php:164
+msgid "Person Cost"
+msgstr "person Omkostninger"
+
+#: includes/admin/class-redq-rental-post-types.php:163
+msgid "P.Cost"
+msgstr "P.Cost"
+
+#: includes/admin/class-redq-rental-post-types.php:202
+#: includes/admin/class-redq-rental-post-types.php:206
+msgid "Security Deposite Cost"
+msgstr "Sikkerhed deposite Omkostninger"
+
+#: includes/admin/class-redq-rental-post-types.php:205
+msgid "S.D.Cost"
+msgstr "SDCost"
+
+#: includes/admin/class-redq-rental-post-types.php:243
+msgid "Security Deposite Clickable"
+msgstr "Sikkerhed deposite Klikbart"
+
+#: includes/admin/class-redq-rental-post-types.php:246
+msgid "Clickable"
+msgstr "klikbart"
+
+#: includes/admin/class-redq-rental-post-types.php:265
+#: includes/admin/class-redq-rental-post-types.php:268
+msgid "Pickup Cost"
+msgstr "Pickup Omkostninger"
+
+#: includes/admin/class-redq-rental-post-types.php:269
+msgid "Pickup Location Cost"
+msgstr "Pickup Beliggenhed Omkostninger"
+
+#: includes/admin/class-redq-rental-post-types.php:277
+#: includes/admin/class-redq-rental-post-types.php:280
+msgid "Dropoff Cost"
+msgstr "afleveringsservice Cost"
+
+#: includes/admin/class-redq-rental-post-types.php:281
+msgid "Dropoff Location Cost"
+msgstr "Afleveringsservice Beliggenhed Omkostninger"
+
+#: includes/admin/class-redq-rental-post-types.php:289
+#: includes/admin/class-redq-rental-post-types.php:293
+msgid "Attribute Name"
+msgstr "Navn på produkt variant"
+
+#: includes/admin/class-redq-rental-post-types.php:292
+msgid "A.Name"
+msgstr "A.Name"
+
+#: includes/admin/class-redq-rental-post-types.php:298
+#: includes/admin/class-redq-rental-post-types.php:302
+msgid "Attribute Value"
+msgstr "attribut Værdi"
+
+#: includes/admin/class-redq-rental-post-types.php:301
+msgid "A.Value"
+msgstr "A.Value"
+
+#: includes/admin/class-redq-rental-post-types.php:307
+msgid "Attribute Icon"
+msgstr "attribut Icon"
+
+#: includes/admin/class-redq-rental-post-types.php:310
+msgid "Icon"
+msgstr "Ikon"
+
+#: includes/admin/class-redq-rental-post-types.php:311
+msgid "Font-awesome icon Ex. fa fa-car"
+msgstr "Font-fantastisk ikon Ex. fa fa-bil"
+
+#: includes/admin/class-redq-rental-post-types.php:334
+msgid "Search "
+msgstr "Søg"
+
+#: includes/admin/class-redq-rental-post-types.php:335
+msgid "All "
+msgstr "Alle"
+
+#: includes/admin/class-redq-rental-post-types.php:336
+#: includes/admin/class-redq-rental-post-types.php:337
+msgid "Parent "
+msgstr "Forældre"
+
+#: includes/admin/class-redq-rental-post-types.php:338
+msgid "Edit "
+msgstr "Rediger"
+
+#: includes/admin/class-redq-rental-post-types.php:339
+msgid "Update "
+msgstr "Opdater"
+
+#: includes/admin/class-redq-rental-post-types.php:340
+msgid "Add New "
+msgstr "Tilføj Ny"
+
+#: includes/admin/class-redq-rental-post-types.php:341
+msgid "New "
+msgstr "Nyhed"
+
+#: includes/admin/class-redq-rental-post-types.php:724
+msgid "Product Date Availabilities"
+msgstr "Produkt Dato Ledige pladser"
+
+#: includes/admin/class-redq-rental-post-types.php:732
+msgid "Range type"
+msgstr "stille på linje"
+
+#: includes/admin/class-redq-rental-post-types.php:733
+#: includes/admin/class-redq-rental-post-types.php:791
+msgid "From"
+msgstr "Fra"
+
+#: includes/admin/class-redq-rental-post-types.php:734
+#: includes/admin/class-redq-rental-post-types.php:792
+msgid "To"
+msgstr "Til"
+
+#: includes/admin/class-redq-rental-post-types.php:735
+#: includes/admin/class-redq-rental-post-types.php:793
+msgid "Bookable"
+msgstr "Dage der kan bookes"
+
+#: includes/admin/class-redq-rental-post-types.php:735
+#: includes/admin/class-redq-rental-post-types.php:793
+msgid ""
+"Please select the date range for which you want the product to be disabled."
+msgstr "Vælg det datointerval, som du vil det produkt, der skal deaktiveres."
+
+#: includes/admin/class-redq-rental-post-types.php:747
+msgid "Add Dates"
+msgstr "Tilføj Datoer"
+
+#: includes/admin/class-redq-rental-post-types.php:748
+msgid "Please select the date range to be disabled for the product."
+msgstr "Vælg datointerval er deaktiveret for produktet."
+
+#: includes/admin/class-redq-rental-post-types.php:782
+msgid "Product Time Availabilities"
+msgstr "Produkt Time Ledige"
+
+#: includes/admin/class-redq-rental-post-types.php:790
+msgid "Date"
+msgstr "Dato"
+
+#: includes/admin/class-redq-rental-settings-tab.php:22
+msgid "RnB Settings"
+msgstr "Indstillinger"
+
+#: includes/admin/class-redq-rental-settings-tab.php:58
+msgid "Configure Your Global Settings For Rental Product"
+msgstr "Konfigurer globale indstillinger for udlejning produkt"
+
+#: includes/admin/class-redq-rental-settings-tab.php:64
+msgid "Pickup Location Title"
+msgstr "Pickup Beliggenhed Titel"
+
+#: includes/admin/class-redq-rental-settings-tab.php:66
+msgid "This text will show as Pickup location title in fornt-end"
+msgstr "Denne tekst vises som Pickup placering titel i fornt-ende"
+
+#: includes/admin/class-redq-rental-settings-tab.php:70
+msgid "Return Location Title"
+msgstr "Retur Placering Titel"
+
+#: includes/admin/class-redq-rental-settings-tab.php:72
+msgid "This text will show as return location title in fornt-end"
+msgstr "Denne tekst vises som afkast placering titel i fornt-ende"
+
+#: includes/admin/class-redq-rental-settings-tab.php:76
+msgid "Pickup Date Title"
+msgstr "Pickup Dato Titel"
+
+#: includes/admin/class-redq-rental-settings-tab.php:78
+msgid "This text will show as pickup date title in fornt-end"
+msgstr "Denne tekst vises som afhentning dato titel i fornt-ende"
+
+#: includes/admin/class-redq-rental-settings-tab.php:82
+msgid "Return Date Title"
+msgstr "Retur Dato Titel"
+
+#: includes/admin/class-redq-rental-settings-tab.php:84
+msgid "This text will show as return date title in fornt-end"
+msgstr "Denne tekst vises som hjemrejsedato titel i fornt-ende"
+
+#: includes/admin/class-redq-rental-settings-tab.php:89
+msgid "Resources Title"
+msgstr "Ressourcer Titel"
+
+#: includes/admin/class-redq-rental-settings-tab.php:91
+msgid "This text will show as resources title in fornt-end"
+msgstr "Denne tekst vises som titel ressourcer i fornt-ende"
+
+#: includes/admin/class-redq-rental-settings-tab.php:96
+msgid "Person Title"
+msgstr "person Titel"
+
+#: includes/admin/class-redq-rental-settings-tab.php:98
+msgid "This text will show as person title in fornt-end"
+msgstr "Denne tekst vises som person titel i fornt-ende"
+
+#: includes/admin/class-redq-rental-settings-tab.php:103
+msgid "Deposite Title"
+msgstr "deposite Titel"
+
+#: includes/admin/class-redq-rental-settings-tab.php:105
+msgid "This text will show as deposite title in fornt-end"
+msgstr "Denne tekst vises som deposite titel i fornt-ende"
+
+#: includes/admin/class-redq-rental-settings-tab.php:110
+msgid "Pay During Booking"
+msgstr "Betal Under Booking"
+
+#: includes/admin/class-redq-rental-settings-tab.php:112
+msgid ""
+"You must have to pay this percentage (%) amonut during booking. default "
+"payamont value is 100%"
+msgstr ""
+"Du skal have til at betale denne andel (%) amonut ved reservationen. "
+"standard payamont værdi er 100%"
+
+#: includes/admin/class-redq-rental-settings-tab.php:122
+#: includes/admin/class-redq-rental-settings-tab.php:123
+#: includes/admin/views/html-product-settings-data.php:27
+msgid "Show Pickup Date"
+msgstr "Vis Pickup Dato"
+
+#: includes/admin/class-redq-rental-settings-tab.php:130
+#: includes/admin/class-redq-rental-settings-tab.php:131
+#: includes/admin/views/html-product-settings-data.php:50
+msgid "Show Pickup Time"
+msgstr "Vis Pickup Time"
+
+#: includes/admin/class-redq-rental-settings-tab.php:138
+#: includes/admin/class-redq-rental-settings-tab.php:139
+#: includes/admin/views/html-product-settings-data.php:73
+msgid "Show Dropoff Date"
+msgstr "Vis afleveringsservice Dato"
+
+#: includes/admin/class-redq-rental-settings-tab.php:146
+#: includes/admin/class-redq-rental-settings-tab.php:147
+#: includes/admin/views/html-product-settings-data.php:96
+msgid "Show Dropoff Time"
+msgstr "Vis afleveringsservice Time"
+
+#: includes/admin/class-redq-rental-settings-tab.php:154
+#: includes/admin/class-redq-rental-settings-tab.php:155
+msgid "Show Pricing Flip Box"
+msgstr "Tilføj ny Flip Boks"
+
+#: includes/admin/class-redq-rental-settings-tab.php:162
+#: includes/admin/class-redq-rental-settings-tab.php:163
+#: includes/admin/views/html-product-settings-data.php:142
+msgid "Show price discount"
+msgstr "Vis pris rabat"
+
+#: includes/admin/class-redq-rental-settings-tab.php:171
+#: includes/admin/class-redq-rental-settings-tab.php:172
+#: includes/admin/views/html-product-settings-data.php:166
+msgid "Show instance payment"
+msgstr "Vis eksempel betaling"
+
+#: includes/admin/class-redq-rental-settings-tab.php:180
+msgid "Enter Your Language Domain"
+msgstr "Indtast dit sprog Domæne"
+
+#: includes/admin/class-redq-rental-settings-tab.php:182
+msgid "Enter your language domain. E.x - de"
+msgstr "Indtast dit sprog domæne. Ex - de"
+
+#: includes/admin/class-redq-rental-settings-tab.php:187
+msgid "Enter Month Name"
+msgstr "Indtast Måned Navn"
+
+#: includes/admin/class-redq-rental-settings-tab.php:189
+msgid ""
+"Write month name in comma separated e.x - Januar,Februar,März,April, Mai,"
+"Juni,Juli,August,September,Oktober,November,Dezember"
+msgstr ""
+"Skriv måneder navn i kommasepareret ex - Januar, Februar, März, April, Mai, "
+"Juni, Juli, august, september, Oktober, November, Dezember"
+
+#: includes/admin/class-redq-rental-settings-tab.php:194
+msgid "Enter Week Day Name"
+msgstr "Indtast Uge Dag Name"
+
+#: includes/admin/class-redq-rental-settings-tab.php:196
+msgid "Write weekday name in comma separated e.x - So, Mo, Di, Mi, Do, Fr, Sa"
+msgstr ""
+"Skriv navn på ugedagen i kommasepareret ex - Så, Mo, Di, Mi, Do, Fr, Sa"
+
+#: includes/admin/class-rnb-term-meta-select.php:69
+#: includes/admin/class-rnb-term-meta-select.php:97
+msgid "none"
+msgstr "ingen"
+
+#: includes/admin/views/admin-menu-page-full-calender.php:8
+msgid "Start:"
+msgstr "Start:"
+
+#: includes/admin/views/admin-menu-page-full-calender.php:9
+msgid "End:"
+msgstr "Slut:"
+
+#: includes/admin/views/admin-menu-page-full-calender.php:11
+msgid "View Order"
+msgstr "Se bestilling"
+
+#: includes/admin/views/html-days-range-meta.php:33
+#: includes/admin/views/html-days-range-meta.php:50
+#: includes/admin/views/html-price-discount-meta.php:33
+#: includes/admin/views/html-price-discount-meta.php:50
+msgid "Days"
+msgstr "Dage"
+
+#: includes/admin/views/html-days-range-meta.php:33
+msgid "-  Cost"
+msgstr "Omkostninger"
+
+#: includes/admin/views/html-days-range-meta.php:34
+#: includes/admin/views/html-price-discount-meta.php:34
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:16
+msgid "Remove"
+msgstr "Fjern"
+
+#: includes/admin/views/html-days-range-meta.php:49
+#: includes/admin/views/html-price-discount-meta.php:49
+msgid "Min Days"
+msgstr "min Dage"
+
+#: includes/admin/views/html-days-range-meta.php:63
+#: includes/admin/views/html-price-discount-meta.php:63
+msgid "Max Days"
+msgstr "Max Dage"
+
+#: includes/admin/views/html-days-range-meta.php:64
+#: includes/admin/views/html-price-discount-meta.php:64
+msgid "days"
+msgstr "dage"
+
+#: includes/admin/views/html-days-range-meta.php:77
+msgid "Days Range Cost ( "
+msgstr "Dage Range Omkostninger ("
+
+#: includes/admin/views/html-days-range-meta.php:78
+msgid "Cost"
+msgstr "Omkostninger"
+
+#: includes/admin/views/html-days-range-meta.php:89
+#: includes/admin/views/html-price-discount-meta.php:79
+msgid "This will be applicable during booking cost calculation"
+msgstr "Dette vil være gældende i cost beregning booking"
+
+#: includes/admin/views/html-days-range-meta.php:91
+msgid "Select Type"
+msgstr "Vælg type"
+
+#: includes/admin/views/html-days-range-meta.php:92
+#: includes/class-redq-product-cart.php:157
+#: includes/class-redq-product-cart.php:173
+#: includes/class-redq-product-cart.php:294
+#: includes/class-redq-product-cart.php:306
+msgid "Per Day"
+msgstr "pr. dag"
+
+#: includes/admin/views/html-days-range-meta.php:93
+msgid "Fixed"
+msgstr "Låst"
+
+#: includes/admin/views/html-own-availability.php:12
+msgid "Custom date range"
+msgstr "Tilpasset datointerval"
+
+#: includes/admin/views/html-own-availability.php:29
+#: includes/admin/views/html-own-time-availability.php:27
+msgid "Not"
+msgstr "Ikke"
+
+#: includes/admin/views/html-own-availability.php:30
+#: includes/admin/views/html-own-time-availability.php:28
+#: includes/admin/views/html-product-settings-data.php:359
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/admin/views/html-own-availability.php:34
+#: includes/admin/views/html-own-time-availability.php:32
+msgid "delete"
+msgstr "slet"
+
+#: includes/admin/views/html-price-discount-meta.php:33
+msgid "-  Discount"
+msgstr "- Rabat"
+
+#: includes/admin/views/html-price-discount-meta.php:78
+msgid "Discount Type"
+msgstr "Rabat type"
+
+#: includes/admin/views/html-price-discount-meta.php:81
+msgid "Select type"
+msgstr "Vælg type"
+
+#: includes/admin/views/html-price-discount-meta.php:82
+msgid "Percentage"
+msgstr "Procentsats"
+
+#: includes/admin/views/html-price-discount-meta.php:83
+msgid "Fixed Price"
+msgstr "Fastsat pris"
+
+#: includes/admin/views/html-price-discount-meta.php:93
+msgid "Discount Amount ( "
+msgstr "Discount Beløb ("
+
+#: includes/admin/views/html-price-discount-meta.php:94
+msgid "Discount amount"
+msgstr "Rabat beløb"
+
+#: includes/admin/views/html-product-settings-data.php:119
+msgid "Show pricing flip box"
+msgstr "Vis pricing flip box"
+
+#: includes/admin/views/html-product-settings-data.php:185
+msgid "Pickup Location Heading Title"
+msgstr "Pickup Beliggenhed Overskrift Titel"
+
+#: includes/admin/views/html-product-settings-data.php:186
+msgid "pickup location title"
+msgstr "pickup placering titel"
+
+#: includes/admin/views/html-product-settings-data.php:197
+msgid "Dropoff Location Heading Title"
+msgstr "Afleveringsservice Placering Overskrift Titel"
+
+#: includes/admin/views/html-product-settings-data.php:198
+msgid "Dropoff location title"
+msgstr "Afleveringsservice placering titel"
+
+#: includes/admin/views/html-product-settings-data.php:209
+msgid "Pickup Date Heading Title"
+msgstr "Pickup Dato Overskrift Titel"
+
+#: includes/admin/views/html-product-settings-data.php:210
+msgid "Pickup date title"
+msgstr "Pickup dato titel"
+
+#: includes/admin/views/html-product-settings-data.php:222
+msgid "Pickup Date Placeholder"
+msgstr "Pickup Dato Pladsholder"
+
+#: includes/admin/views/html-product-settings-data.php:223
+#: includes/admin/views/html-product-settings-data.php:236
+msgid "Pickup date placeholder"
+msgstr "Pickup dato pladsholder"
+
+#: includes/admin/views/html-product-settings-data.php:235
+msgid "Pickup Time Placeholder"
+msgstr "Pickup Time Pladsholder"
+
+#: includes/admin/views/html-product-settings-data.php:248
+msgid "Dropoff Date Heading Title"
+msgstr "Afleveringsservice Dato Overskrift Titel"
+
+#: includes/admin/views/html-product-settings-data.php:249
+msgid "Dropoff date title"
+msgstr "Afleveringsservice dato titel"
+
+#: includes/admin/views/html-product-settings-data.php:261
+msgid "Drop-off Date Placeholder"
+msgstr "Drop-off Dato Pladsholder"
+
+#: includes/admin/views/html-product-settings-data.php:262
+msgid "Drop-off date placeholder"
+msgstr "Drop-off dato pladsholder"
+
+#: includes/admin/views/html-product-settings-data.php:274
+msgid "Drop-off Time Placeholder"
+msgstr "Drop-off Time Pladsholder"
+
+#: includes/admin/views/html-product-settings-data.php:275
+msgid "Drop-off time placeholder"
+msgstr "Drop-off tid pladsholder"
+
+#: includes/admin/views/html-product-settings-data.php:286
+msgid "Resources Heading Title"
+msgstr "Ressourcer Udgifts- Titel"
+
+#: includes/admin/views/html-product-settings-data.php:287
+msgid "Resources title"
+msgstr "Ressourcer titel"
+
+#: includes/admin/views/html-product-settings-data.php:298
+msgid "Person Heading Title"
+msgstr "Person Overskrift Titel"
+
+#: includes/admin/views/html-product-settings-data.php:299
+msgid "Person title"
+msgstr "person titel"
+
+#: includes/admin/views/html-product-settings-data.php:310
+msgid "Person Placeholder"
+msgstr "person Pladsholder"
+
+#: includes/admin/views/html-product-settings-data.php:311
+msgid "Person placeholder"
+msgstr "person pladsholder"
+
+#: includes/admin/views/html-product-settings-data.php:323
+msgid "Security Deposite Heading Title"
+msgstr "Sikkerhed deposite Overskrift Titel"
+
+#: includes/admin/views/html-product-settings-data.php:324
+msgid "Security deposite title"
+msgstr "Sikkerhed deposite titel"
+
+#: includes/admin/views/html-product-settings-data.php:336
+msgid "Book Now Button Text"
+msgstr "Bestil nu Button Text"
+
+#: includes/admin/views/html-product-settings-data.php:337
+msgid "Book now button text"
+msgstr "Book nu tekst knap"
+
+#: includes/admin/views/html-product-settings-data.php:356
+msgid "Block Rental Dates"
+msgstr "Bloker Udlejning Datoer"
+
+#: includes/admin/views/html-product-settings-data.php:357
+msgid "This will be applicable for calendar date blocks"
+msgstr "Dette vil være gældende for kalenderåret dato blokke"
+
+#: includes/admin/views/html-product-settings-data.php:360
+msgid "No"
+msgstr "Nej"
+
+#: includes/admin/views/html-product-settings-data.php:371
+msgid "Date Format Settings"
+msgstr "Dato Format Settings"
+
+#: includes/admin/views/html-product-settings-data.php:372
+msgid "This will be applicable for all date calendar"
+msgstr "Dette vil være gældende for alle kalender"
+
+#: includes/admin/views/html-product-settings-data.php:374
+msgid "m/d/Y"
+msgstr "m/d/Y"
+
+#: includes/admin/views/html-product-settings-data.php:375
+msgid "d/m/Y"
+msgstr "d/m/Y"
+
+#: includes/admin/views/html-product-settings-data.php:376
+msgid "Y/m/d"
+msgstr "Y/m/d"
+
+#: includes/admin/views/html-product-settings-data.php:387
+msgid "Maximum time late"
+msgstr "Maksimal tid sent"
+
+#: includes/admin/views/html-product-settings-data.php:388
+msgid "Another day will be count if anyone being late during departure"
+msgstr "En anden dag vil blive tælle hvis nogen bliver sent under afgang"
+
+#: includes/admin/views/html-product-settings-data.php:389
+msgid "time"
+msgstr "tid"
+
+#: includes/admin/views/html-product-settings-data.php:406
+msgid "Single Day Booking"
+msgstr "Enkelt dag Booking"
+
+#: includes/admin/views/html-product-settings-data.php:417
+msgid "Maximum Booking Days"
+msgstr "Maximum Booking Dage"
+
+#: includes/admin/views/html-product-settings-data.php:418
+msgid "Max days"
+msgstr "Max Dage"
+
+#: includes/admin/views/html-product-settings-data.php:434
+msgid "Minimum Booking Days"
+msgstr "Minimum booking dage"
+
+#: includes/admin/views/html-product-settings-data.php:435
+msgid "Min days"
+msgstr "min Dage"
+
+#: includes/admin/views/html-product-settings-data.php:469
+msgid "Choose off days"
+msgstr "Vælg off dage"
+
+#: includes/admin/views/html-product-settings-data.php:469
+msgid "Weekends"
+msgstr "Weekender"
+
+#: includes/admin/views/html-rental-inventory-non-repeatable-data.php:9
+#: includes/admin/views/html-rental-inventory-non-repeatable-data.php:10
+msgid "Inventory Qty"
+msgstr "Lagerliste"
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:31
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:34
+msgid "Unique product model"
+msgstr "Unikt produkt model"
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:33
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:15
+msgid "Hourly price will be applicabe if booking or rental days min 1day"
+msgstr "Time pris vil blive applicabe hvis booking eller leje dage min en dag"
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:92
+msgid "Set pickup locations"
+msgstr "Indstil pickup steder"
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:92
+#: templates/single-product/add-to-cart/redq_rental.php:113
+msgid "Pickup Locations"
+msgstr "Pickup Steder"
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:136
+msgid "Set drop-off locations"
+msgstr "Set afleveringssteder"
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:136
+msgid "Dropoff Locations"
+msgstr "afleveringsservice Steder"
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:180
+msgid "Set payable  resources"
+msgstr "Indstil betales ressourcer"
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:180
+#: includes/class-redq-product-cart.php:163
+#: includes/class-redq-product-cart.php:299
+#: templates/single-product/add-to-cart/redq_rental.php:284
+msgid "Resources"
+msgstr "Resourcer"
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:225
+msgid "Set Person"
+msgstr "person Omkostninger"
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:225
+#: includes/class-redq-product-cart.php:315
+msgid "Person"
+msgstr "Person"
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:270
+msgid "Set security deposites"
+msgstr "Indstil sikkerhedsmæssige deposites"
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:270
+msgid "Deposite"
+msgstr "Sikkerhed deposite Omkostninger"
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:314
+msgid "Set attributes"
+msgstr "Egenskaber"
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:314
+#: includes/class-redq-product-tabs.php:70
+msgid "Attributes"
+msgstr "Egenskaber"
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:358
+msgid "Set features"
+msgstr "Funktioner"
+
+#: includes/admin/views/html-rental-inventory-repeatable-data.php:358
+#: includes/class-redq-product-tabs.php:79
+msgid "Features"
+msgstr "Funktioner"
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:5
+msgid "Set Price Type"
+msgstr "Sæt Pris Type"
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:5
+#, php-format
+msgid "Choose a price type - this controls the <a href=\"%s\">schema</a>."
+msgstr "Vælg en pristype - det styrer <a href=\"%s\">skema</a> ."
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:6
+msgid "General Pricing"
+msgstr "Prisfastsættelse"
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:7
+msgid "Daily Pricing"
+msgstr "Daglig Pricing"
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:8
+msgid "Monthly Pricing"
+msgstr "Månedlig Pricing"
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:9
+msgid "Days Range Pricing"
+msgstr "Dage Range Pricing"
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:15
+msgid "Hourly Price ( "
+msgstr "Time Pris ("
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:15
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:22
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:44
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:46
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:48
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:50
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:52
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:54
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:56
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:82
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:84
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:86
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:88
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:90
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:92
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:94
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:96
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:98
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:100
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:102
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:104
+msgid "Enter price here"
+msgstr "Angiv husleje"
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:20
+msgid "Set general pricing plan"
+msgstr "Set generelle plan prissætning"
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:22
+msgid "General Price ( "
+msgstr "General Pris ("
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:27
+msgid "Set daily pricing Plan"
+msgstr "Set daglige Plan prissætning"
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:44
+msgid "Friday ( "
+msgstr "Fredag ("
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:46
+msgid "Saturday ( "
+msgstr "Lørdag ("
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:48
+msgid "Sunday ( "
+msgstr "Søndag ("
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:50
+msgid "Monday ( "
+msgstr "Mandag"
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:52
+msgid "Tuesday ( "
+msgstr "Tirsdag"
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:54
+msgid "Wednesday ( "
+msgstr "Onsdag"
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:56
+msgid "Thursday ( "
+msgstr "Torsdag"
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:61
+msgid "Set monthly pricing plan"
+msgstr "Set månedlig plan prissætning"
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:82
+msgid "January ( "
+msgstr "januar ("
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:84
+msgid "February ( "
+msgstr "Februar ("
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:86
+msgid "March ( "
+msgstr "Marts"
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:88
+msgid "April ( "
+msgstr "April"
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:90
+msgid "May ( "
+msgstr "Maj"
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:92
+msgid "June ( "
+msgstr "Juni"
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:94
+msgid "July ( "
+msgstr "Juli"
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:96
+msgid "August ( "
+msgstr "August"
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:98
+msgid "September ( "
+msgstr "September"
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:100
+msgid "October ( "
+msgstr "Oktober"
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:102
+msgid "November ( "
+msgstr "November"
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:104
+msgid "December ( "
+msgstr "december ("
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:110
+msgid "Set day ranges pricing plans"
+msgstr "Her kan dagen indstilles"
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:121
+msgid "Add Days Range"
+msgstr "Dage Range Pricing"
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:191
+msgid "Inventory management"
+msgstr "Lagerliste"
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:203
+msgid "Add Inventory Items"
+msgstr "Tilføj lagervarer"
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:229
+msgid "Set price discount depending on day length"
+msgstr "Sæt pris rabat afhængig af daglængde"
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:240
+msgid "Add Price Discount"
+msgstr "Tilføj Pris Rabat"
+
+#: includes/admin/views/redq-rental-additional-tabs-panel.php:267
+msgid "Settings of this product"
+msgstr "Indstillinger af dette produkt"
+
+#: includes/class-redq-product-cart.php:123
+#: includes/class-redq-product-cart.php:275
+msgid "Pickup Location"
+msgstr "Pickup Beliggenhed Omkostninger"
+
+#: includes/class-redq-product-cart.php:131
+#: includes/class-redq-product-cart.php:147
+#: includes/class-redq-product-cart.php:279
+#: includes/class-redq-product-cart.php:287
+msgid " Cost"
+msgstr "Beløb"
+
+#: includes/class-redq-product-cart.php:139
+msgid "Drop Off Location"
+msgstr "Afleveringsstedet"
+
+#: includes/class-redq-product-cart.php:159
+#: includes/class-redq-product-cart.php:175
+#: includes/class-redq-product-cart.php:296
+#: includes/class-redq-product-cart.php:308
+msgid "One Time"
+msgstr "One-time"
+
+#: includes/class-redq-product-cart.php:179
+msgid "Security Deposit"
+msgstr "Sikkerhedsdepositum"
+
+#: includes/class-redq-product-cart.php:187
+msgid "Person "
+msgstr "Person"
+
+#: includes/class-redq-product-cart.php:201
+#: templates/single-product/add-to-cart/redq_rental.php:186
+msgid "Pickup Date & Time"
+msgstr "Pickup Dato og tid"
+
+#: includes/class-redq-product-cart.php:216
+msgid "Dropoff Date & Time"
+msgstr "Dropoff dato & tid"
+
+#: includes/class-redq-product-cart.php:225
+#: includes/class-redq-product-cart.php:342
+msgid "Total Days"
+msgstr "Total"
+
+#: includes/class-redq-product-cart.php:231
+#: includes/class-redq-product-cart.php:344
+msgid "Total Hours"
+msgstr "Timer total"
+
+#: includes/class-redq-product-cart.php:239
+#: includes/class-redq-product-cart.php:348
+msgid "Payment Due"
+msgstr "Betalingsfrist"
+
+#: includes/class-redq-product-cart.php:283
+msgid "Drop-off Location"
+msgstr "Drop-off placering"
+
+#: includes/class-redq-product-cart.php:311
+msgid " Deposit "
+msgstr "Depositum"
+
+#: includes/class-redq-product-cart.php:326
+msgid "Pickup Date"
+msgstr "Vis Pickup Dato"
+
+#: includes/class-redq-product-cart.php:337
+msgid "Drop-off Date"
+msgstr "Drop-off Dato"
+
+#: includes/class-redq-product-redq_rental.php:466
+msgid "Book Now"
+msgstr "Bestil nu"
+
+#: includes/class-redq-product-redq_rental.php:487
+msgid "Friday"
+msgstr "Fredag"
+
+#: includes/class-redq-product-redq_rental.php:490
+msgid "Saturday"
+msgstr "Lørdag"
+
+#: includes/class-redq-product-redq_rental.php:493
+msgid "Sunday"
+msgstr "Søndag"
+
+#: includes/class-redq-product-redq_rental.php:496
+msgid "Monday"
+msgstr "Mandag"
+
+#: includes/class-redq-product-redq_rental.php:499
+msgid "Tuesday"
+msgstr "Tirsdag"
+
+#: includes/class-redq-product-redq_rental.php:502
+msgid "Wednesday"
+msgstr "Onsdag"
+
+#: includes/class-redq-product-redq_rental.php:505
+msgid "Thursday"
+msgstr "Torsdag"
+
+#: includes/class-redq-product-redq_rental.php:523
+msgid "january"
+msgstr "Januar"
+
+#: includes/class-redq-product-redq_rental.php:526
+msgid "february"
+msgstr "Februar"
+
+#: includes/class-redq-product-redq_rental.php:529
+msgid "march"
+msgstr "Marts"
+
+#: includes/class-redq-product-redq_rental.php:532
+msgid "april"
+msgstr "april"
+
+#: includes/class-redq-product-redq_rental.php:535
+msgid "may"
+msgstr "Maj"
+
+#: includes/class-redq-product-redq_rental.php:538
+msgid "june"
+msgstr "Juni"
+
+#: includes/class-redq-product-redq_rental.php:541
+msgid "july"
+msgstr "Juli"
+
+#: includes/class-redq-product-redq_rental.php:544
+msgid "august"
+msgstr "august"
+
+#: includes/class-redq-product-redq_rental.php:547
+msgid "september"
+msgstr "september"
+
+#: includes/class-redq-product-redq_rental.php:550
+msgid "october"
+msgstr "oktober"
+
+#: includes/class-redq-product-redq_rental.php:553
+msgid "november"
+msgstr "november"
+
+#: includes/class-redq-product-redq_rental.php:556
+msgid "december"
+msgstr "december"
+
+#: redq-rental-and-bookings.php:293
+msgid "Max booking days is exceed"
+msgstr "Max reservation dage er større end"
+
+#: redq-rental-and-bookings.php:294
+msgid "Ooops"
+msgstr "Uuuups …"
+
+#: redq-rental-and-bookings.php:295
+msgid "This date range is unavailable"
+msgstr "Dette datointerval er ikke tilgængelig"
+
+#: redq-rental-and-bookings.php:296
+msgid "Min rental days is "
+msgstr "Min leje dage er"
+
+#: redq-rental-and-bookings.php:297
+msgid "Max rental days "
+msgstr "Udlejningsdage"
+
+#: redq-rental-and-bookings.php:1016
+msgid ""
+"Please Install WooCommerce First before activating this Plugin. You can "
+"download WooCommerce from <a href=\"http://wordpress.org/plugins/woocommerce/"
+"\">here</a>."
+msgstr ""
+"Du skal installere WooCommerce First før aktivering denne plugin. Du kan "
+"downloade WooCommerce fra <a href=\"http://wordpress.org/plugins/woocommerce/"
+"\">her</a> ."
+
+#: templates/single-product/add-to-cart/redq_rental.php:33
+msgid "show pricing"
+msgstr "Prisfastsættelse"
+
+#: templates/single-product/add-to-cart/redq_rental.php:38
+msgid "Pricing Plans"
+msgstr "Priser Planer"
+
+#: templates/single-product/add-to-cart/redq_rental.php:45
+msgid "days:"
+msgstr "dage"
+
+#: templates/single-product/add-to-cart/redq_rental.php:46
+msgid "/ day"
+msgstr "Dag"
+
+#: templates/single-product/add-to-cart/redq_rental.php:49
+msgid "( Discount - "
+msgstr "Discount Beløb ("
+
+#: templates/single-product/add-to-cart/redq_rental.php:51
+msgid "%"
+msgstr "%"
+
+#: templates/single-product/add-to-cart/redq_rental.php:55
+msgid ")"
+msgstr ")"
+
+#: templates/single-product/add-to-cart/redq_rental.php:118
+msgid "- Select pick-up city -"
+msgstr "- Vælg afhentning byen -"
+
+#: templates/single-product/add-to-cart/redq_rental.php:119
+msgid "- Select pick-up location -"
+msgstr "- Vælg afhentningssted -"
+
+#: templates/single-product/add-to-cart/redq_rental.php:144
+msgid "Drop-off Locations"
+msgstr "Set afleveringssteder"
+
+#: templates/single-product/add-to-cart/redq_rental.php:148
+msgid "- Select drop-off city -"
+msgstr "- Vælg drop-off byen -"
+
+#: templates/single-product/add-to-cart/redq_rental.php:149
+msgid "- Select drop-off location -"
+msgstr "Vælg drop-off sted"
+
+#: templates/single-product/add-to-cart/redq_rental.php:240
+msgid "Drop-off Date & Time"
+msgstr "Drop-off Dato og tid"
+
+#: templates/single-product/add-to-cart/redq_rental.php:296
+#: templates/single-product/add-to-cart/redq_rental.php:370
+msgid " - Per Day"
+msgstr "per dag"
+
+#: templates/single-product/add-to-cart/redq_rental.php:297
+#: templates/single-product/add-to-cart/redq_rental.php:371
+msgid " - Per Hour"
+msgstr "- Per time"
+
+#: templates/single-product/add-to-cart/redq_rental.php:299
+#: templates/single-product/add-to-cart/redq_rental.php:373
+msgid " - One Time"
+msgstr "One-time"
+
+#: templates/single-product/add-to-cart/redq_rental.php:325
+msgid "Additional Person"
+msgstr "Yderligere person"
+
+#: templates/single-product/add-to-cart/redq_rental.php:333
+#: templates/single-product/add-to-cart/redq_rental.php:334
+#: templates/single-product/add-to-cart/redq_rental.php:336
+msgid "Person - "
+msgstr "Person -"
+
+#: templates/single-product/add-to-cart/redq_rental.php:333
+#: templates/single-product/add-to-cart/redq_rental.php:334
+#: templates/single-product/add-to-cart/redq_rental.php:336
+msgid " :  Cost - "
+msgstr "Pris:"
+
+#: templates/single-product/add-to-cart/redq_rental.php:333
+msgid " - Per day"
+msgstr "per dag"
+
+#: templates/single-product/add-to-cart/redq_rental.php:334
+msgid " - Per hour"
+msgstr "- Per time"
+
+#: templates/single-product/add-to-cart/redq_rental.php:336
+msgid " - One time"
+msgstr "One-time"
+
+#: templates/single-product/add-to-cart/redq_rental.php:359
+msgid "Security Deposites"
+msgstr "Sikkerhed Deposites"
+
+#: templates/single-product/add-to-cart/redq_rental.php:393
+msgid "Discount Depend on Booking Days :"
+msgstr "Rabat Afhænger Booking Dage:"
+
+#: templates/single-product/add-to-cart/redq_rental.php:396
+msgid "Instance Pay During Booking : "
+msgstr "Instans Pay Under Booking:"
+
+#: templates/single-product/add-to-cart/redq_rental.php:399
+msgid "Total Booking Cost : "
+msgstr "Totalgebyret:"
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Rental & Bookings System"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://codecanyon.net/item/rnb-woocommerce-rental-booking-system/14835145?"
+"ref=redqteam"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"RnB – WooCommerce Rental & Booking is a user friendly woocommerce booking "
+"plugin built as woocommerce extension. This powerful woocommerce plugin "
+"allows you to sell your time or date based bookings. It creates a new "
+"product type to your WooCommerce site. Perfect for those wanting to offer "
+"rental , booking , or real estate agencies or services."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "RedQ Team"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://redqteam.com"
+msgstr ""
+
+#~ msgid "Add New"
+#~ msgstr "Tilføj Ny"
+
+#~ msgid "Enable Single Day Time Based Booking"
+#~ msgstr "Aktiver enkelt dag tid Baseret Booking"
+
+#~ msgid "Drop-Off Cost"
+#~ msgstr "Drop-Off Cost"
+
+#~ msgid "security_deposites"
+#~ msgstr "Indstil sikkerhedsmæssige deposites"
+
+#~ msgid "Person Count"
+#~ msgstr "person Omkostninger"
+
+#~ msgid "Pickup Time"
+#~ msgstr "Afhentning"
+
+#~ msgid "Dropoff Date"
+#~ msgstr "afleveringsservice Dato"
+
+#~ msgid "DropOff Time"
+#~ msgstr "afleveringsservice Time"
+
+#~ msgid "Drop-off Cost"
+#~ msgstr "Drop-off Cost"
+
+#~ msgid "Security Deposit Included"
+#~ msgstr "Depositum Inkluderet"
+
+#~ msgid "Drop-off Time"
+#~ msgstr "Aflevering tidspunkt"
+
+#~ msgid "Woocomemrce Rental & Bookings"
+#~ msgstr "Woocomemrce Rental & Bestillinger"

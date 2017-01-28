@@ -1,0 +1,351 @@
+
+button.btn-book-now{
+	margin: 10px 0;
+}
+
+.today-price{
+	display: inline-block;
+	width: 100%;
+	position: relative;
+}
+
+.show-today-price span{
+	float: left;
+}
+
+.show-today-price .price {
+	float: right;
+	font-weight: bold;
+
+}
+
+.price-showing {
+	margin-bottom: 20px !important;
+	height: 190px;
+	text-align: center;
+}
+
+.price-showing  .notice {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	background: #ddd;
+	display: block;
+}
+
+.item-pricing h5 {
+	font-size: 13px !important;
+	margin: 0  !important;
+	padding-bottom: 10px;
+}
+
+.price-showing .back {
+	background-color: #f3f3f3;
+	padding: 10px;
+	cursor: pointer;
+
+}
+
+.price-showing  .notice h3 {
+	line-height: 190px;
+	margin: 0;
+	cursor: pointer;
+}
+
+.day-ranges-pricing-plan {
+	width: 50%;
+	float: left;
+	text-align: left;
+	line-height: 22px;
+}
+
+.day-ranges-pricing-plan span {
+	font-size: 12px;
+}
+
+.cart {
+	position: relative;
+}
+
+.cart h5 {
+	padding-top: 20px;
+}
+
+.chosen-single b {
+	position: relative;
+	top: 6px;
+}
+
+.date-time-picker {
+	position: relative;
+	width: 100%;
+	display: inline-block;
+}
+
+.date-time-picker .pick-up-date-picker,
+.date-time-picker .drop-off-date-picker {
+	width: 50%;
+	float: left;
+	padding-right: 10px;
+	position: relative;
+
+}
+
+.date-time-picker .pick-up-time-picker,
+.date-time-picker .drop-off-time-picker {
+	float: left;
+	width: 50%;
+	position: relative;
+
+}
+
+.date-time-picker input {
+	height: 33px;
+	padding-left: 30px !important;
+	background: #fff !important;
+	box-shadow: 0 0px 3px rgba(0, 0, 0, 0.16) !important;
+	font-size: 13px;
+	border: 0 !important;
+	width: 100%;
+}
+
+
+.property-images {
+	position: relative;
+}
+
+.property-images .prev-btn,
+.property-images .next-btn {
+	position: absolute;
+	top: 40%;
+  height: 50px;
+  width: 50px;
+  background: rgba(0,0,0, .5);
+  color: #fff;
+  font-size: 17px;
+  border: 0;
+  cursor: pointer;
+
+}
+
+.property-images .next-btn {
+	right: 0;
+}
+
+.property-images .prev-btn {
+	left: 0;
+}
+
+.woocommerce-tabs.wc-tabs-wrapper  {
+	position: relative;
+	margin: 30px 0;
+}
+
+.item-arrtributes ul,
+.item-extras ul {
+	margin: 0 !important;
+	display: inline-block;
+}
+
+.item-extras ul.attributes, .item-arrtributes ul.attributes{
+	width: 100%;
+}
+
+.item-arrtributes ul li ,
+.item-extras ul li{
+	list-style: none !important;
+	margin: 0;
+	padding: 5px 0;
+	width: 31%;
+	float: left;
+}
+
+.attribute-icon,
+.attribute-name i {
+	position: relative;
+	margin-right: 10px;
+	color: #333;
+}
+
+
+.custom-block {
+	position: relative;
+	display: inline-block;
+	padding-left: 25px;
+	width: 100%;
+	font-size: 13px;
+	   z-index: 99;
+}
+
+.custom-block p {
+	margin: 0;
+	float: left;
+}
+
+.custom-block  input {
+	display: none;
+}
+
+.custom-block span {
+  height: auto;
+  width: auto;
+  background: transparent;
+  margin-bottom: 8px;
+  font-weight: normal;
+  color: #666;
+
+
+
+}
+
+/*.custom-block span.show_if_day {
+  float: right;
+
+}*/
+
+.custom-block span:after {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 2px;
+  height: 16px;
+  width: 16px;
+  border-radius: 3px;
+  border: 1px solid #ddd;
+}
+.custom-block input[type="checkbox"]:checked + span:after {
+  background: #27CCC0;
+  border-color: #27CCC0;
+  top: 2px;
+  left: 0;
+  line-height: 16px;
+  text-align: center;
+  font-size: 12px;
+}
+
+.custom-block input[type="checkbox"]:checked + span:before {
+	content: "\f00c";
+  font-family: 'FontAwesome';
+  position: absolute;
+  left: 3px;
+  top: 2px;
+  font-size: 10px;
+  font-weight: normal;
+  color: #fff;
+  z-index: 999;
+}
+
+
+.btn-book-now {
+	width: 100% !important;
+}
+
+button.btn-book-now[disabled]:hover {
+	font-family: inherit !important;
+	padding: .618em 1em !important;
+}
+
+
+.redqs-select-boxes {
+	height: 34px;
+	margin-bottom: 15px;
+}
+
+
+
+.xdsoft_datetimepicker .xdsoft_calendar th,
+.xdsoft_datetimepicker .xdsoft_calendar td {
+	background: #fff !important;
+	border: 0 !important;
+}
+
+.xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_current {
+	background: #27CCC0 !important;
+}
+
+.pick-up-date-picker .fa ,
+.pick-up-time-picker .fa,
+.drop-off-date-picker .fa,
+.drop-off-time-picker .fa {
+	position: absolute;
+	left: 9px;
+	top: 9px;
+	z-index: 99;
+	font-size: 13px;
+}
+
+.pick-up-time-picker .fa,
+.drop-off-time-picker .fa {
+	font-size: 15px;
+}
+
+
+
+.xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box >div >div {
+	background: transparent  !important;
+	border-top: 0 !important;
+}
+
+.xdsoft_time_box {
+	border: 0 !important;
+}
+
+.xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box >div >div.xdsoft_current {
+	 background: #27CCC0 !important;
+}
+
+
+/* tweenty fithteen style */
+
+.redq-pick-up-location h5,
+.redq-drop-off-location h5,
+.date-time-picker h5,
+.date-time-picker h5,
+.payable-extras h5 {
+	margin: 0 !important;
+	padding-bottom: 8px;
+}
+
+.additional-person , .payable-security_deposites {
+	margin-bottom: 20px;
+}
+
+
+.redq-pick-up-location .chosen-single,
+.redq-drop-off-location .chosen-single,
+.additional-person  .chosen-single {
+	height: 34px;
+	line-height: 33px;
+	background: #fff;
+	border: 0;
+	border-radius: 0;
+	box-shadow: 0 0px 4px rgba(0, 0, 0, 0.16) !important;
+
+}
+
+.redq-pick-up-location .chosen-container.chosen-container-single,
+.redq-drop-off-location .chosen-container.chosen-container-single,
+.additional-person .chosen-container.chosen-container-single {
+	width: 100% !important;
+}
+
+.redq-pick-up-location .chosen-container-active.chosen-with-drop .chosen-single ,
+.redq-drop-off-location  .chosen-container-active.chosen-with-drop .chosen-single {
+	background-image: none;
+}
+
+.booking-pricing-info{	
+    background: #ddd;
+    padding: 10px;    
+    margin-top: 20px;
+}
+
+.booking-pricing-info p{
+	font-weight: 200;
+	padding-bottom: 0px;
+}
+
+form.cart .redq_add_to_cart_button{
+	margin-top: 20px !important;
+}
+
